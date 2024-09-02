@@ -14,7 +14,7 @@
    <img height = 530 width= 300 align = right src = "https://user-images.githubusercontent.com/50004633/134461687-7281df45-15a4-47dd-8df4-15a2319d2001.gif">
   
 </p>
-![](https://komarev.com/ghpvc/?mynkprtp&color=green)
+![](https://komarev.com/ghpvc/?username=mynkprtp&label=PROFILE+VIEWS)
 <img height=250 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mynkprtp&show_icons=true&theme=radical"/>
 
 

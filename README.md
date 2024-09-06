@@ -1,7 +1,7 @@
 # <p align="center"> Hi there 👋, I'm Mayank Pratap Singh </p>
 </hr>
 
-### <p align="center"> I'm a Backend Software Engineer with 2+ years of experience.</p>
+### <p align="center"> I'm a Backend Engineer with 2+ years of experience.</p>
 
 
 - 🌱 I’m currently learning <b> SpringBoot </b>

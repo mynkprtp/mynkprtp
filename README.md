@@ -1,11 +1,11 @@
 # <p align="center"> Hi there 👋, I'm Mayank Pratap Singh </p>
 </hr>
 
-### <p align="center"> I'm a Backend Engineer with 2+ years of experience.</p>
+### <p align="center"> I'm a Backend Engineer with 2.7+ years of experience.</p>
 
 
-- 🌱 I’m currently learning <b> SpringBoot </b>
-- 💬 Ask me about <b>Java, C++, PostgreSQL, MySQL, Javascript, HTML/CSS3, React.JS, Node.JS</b>
+- 🌱 I’m currently learning <b> Kafka and Kubernetes </b>
+- 💬 Ask me about <b>Java, Springboot, C++, PostgreSQL, MySQL, Javascript, HTML/CSS3, React.JS, Node.JS</b>
 - 📫 How to reach me: <b>Connect to me via Email [Mayank Pratap Singh](mailto:itsmayankhere24@gmail.com.com?subject=[GitHub]%20Source%20Han%20Sans)</b>
 - ⚡ Fun fact: <b> I love to play Badminton and draw sketches </b>
 
